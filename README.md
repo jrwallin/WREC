@@ -6,6 +6,9 @@
 **Project Source URL:**
 <a href="https://github.com/jrwallin/WREC">https://github.com/jrwallin/WREC</a>
 
+**Mobile Page URL:**
+<a href="http://sotd.us/jeremiewallin/Mod05courseProject/index1.html">http://sotd.us/jeremiewallin/Mod05courseProject/index1.html</a>
+
 ## Summary
 WREC was created as a project requirement for my Mobile Application Development course.  The purpose of this project was to learn how to use jQuery Mobile to build a mobile website.
  
