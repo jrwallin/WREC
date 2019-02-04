@@ -3,6 +3,8 @@
 
 **Date Created:** February 3, 2019
 
+**Project Source URL:**
+https://github.com/jrwallin/WREC
 
 ## Summary
 WREC was created as a project requirement for my Mobile Application Development course.  The purpose of this project was to learn how to use jQuery Mobile to build a mobile website.
